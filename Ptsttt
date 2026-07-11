@@ -3,129 +3,7 @@
 
 	
 	{
-        "name": "⚽LANC TV⚽",
-        "samples": [
-         
-			
-
-			{
-        "name": "LANCE 1",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd?ccur_pg=primary",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-			{
-        "name": "LANCE 2",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd?ccur_pg=primary",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//147.0.0.0 Safari//537.36"
-        }
-      },
-      {
-        "name": "LANCE 3",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd?ccur_pg=primary",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//147.0.0.0 Safari//537.36"
-        }
-      },
-      {
-        "name": "LANCE 4",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd?ccur_pg=primary",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//147.0.0.0 Safari//537.36"
-        }
-      },
-			{
-        "name": "LANCE 1 OPC 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffb8d5675670c6/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd?",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-			{
-        "name": "LANCE 2 OPC 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffb8d657567760c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd?",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "LANCE 3 OPC 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6956757567568d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd?",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "LANCE 4 OPC 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffb5676575678d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd?",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.postimg.cc/VvyFWzQs/5ca14b41-4d30-4d40-96ad-fcea786ee5de.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-        }
-      },
-     
-			{
-                "name": "LANC EN VIVO 1",
-                "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-          },
-{
-                "name": "LANC EN VIVO 2",
-                "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-                "type": "CLEARKEY",
-                "icono": "https://i.ibb.co/qMCdxFQ/IMG-20241103-WA0162.jpg"
-          }
-
-
-
-			
-
-	]
-    },
-    {
-        "name": "PARAGUAY SIN BLOQUEOS",
+        "name": "PARAGUAY 1",
         "samples": [
 			{
                 "name": "GEN PY",
@@ -189,17 +67,6 @@
                 "url": "https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion",
                 "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg"
             },
-
-				{
-                "name": "POPU TV PY",
-                "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
-                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
-            },
-				{
-                "name": "POPU TV PY OPC 2",
-                "url": "https://copacotf.desdeparaguay.net/universotv/universotv_int_baja/playlist.m3u8?admin=nacion",
-                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
-            },
 {
                 "name": "UNICANAL PY",
                 "url": "https://copacotf.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8",
@@ -220,7 +87,7 @@
 	]
     },
     {
-        "name": "PARAGUAY 🇵🇾",
+        "name": "PARAGUAY 2🇵🇾",
         "samples": [
     {
         "name": "GEN_TV  ",
@@ -328,52 +195,6 @@
         }
     },
     {
-        "name": "PY | SNT  ",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
-        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/snt.png",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "PY | SNT opcion 2",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://puntoplaytv.one/license.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
-        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/snt.png",
-        "headers": {
-           "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-        }
-    },
-    {
-        "name": "TELEFUTURO",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "TELEFUTURO opcion 2",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://tonykshop.lat/license.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
-        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/"
-        }
-    },
-    {
         "name": "RPC  ",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "type": "CLEARKEY",
@@ -432,18 +253,6 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
         "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/mega.png",
-        "headers": {
-            "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-        }
-    },
-    {
-        "name": "ÑANDUTI TV",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=46c3d8c42bb9799e5de5792e3fb45de4&key=aed06fd292d278aa464da44752b9c313",
-        "icono": "https://i.postimg.cc/rmBzpCCb/nandutitv.png",
         "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
