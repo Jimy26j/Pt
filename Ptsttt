@@ -9,8 +9,6 @@
                 "name": "GEN PY",
                 "url": "http://185.194.204.72:8260/live/tv1/index.m3u8",
                 "icono": "https://i.postimg.cc/766s2fHs/download-59.jpg"
-            }
-	]
     },
     {
         "name": "D Sports Ar",
@@ -23,7 +21,9 @@
                 "name": "TIGO GT",
                 "url": "http://reborned.cc:8080/live/paulomartinez5/PttzLvJ5smJK/415.m3u8",
                 "icono": "https://i.postimg.cc/htpsKk4c/images.png"
-            },
+            ]
+            }
+    },
 	{
         "name": "PARAGUAY 1",
         "samples": [
