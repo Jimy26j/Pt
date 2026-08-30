@@ -1,23 +1,31 @@
 {
-  "version": 1,
-  "base_urls": {
-    "pelisjuanita": "https://raw.githubusercontent.com/Jimy26j/Pt/refs/heads/main/Ptsttt",
-    "lamovie_api": "https://lamovie.org/wp-api/v1",
-    "cinemacity": "https://cinemacity.cc"
-  },
-  "mirrors": {
-    "api_wp": ["https://cuevana.gs", "https://www.poseidonhd2.co"],
-    "nextjs": ["https://www.cuevana8.eu"],
-    "streamwish": ["hanerix.com", "masukestin.com", "audinifer.com", "vibuxer.com", "hgplaycdn.com"],
-    "filelions": ["callistanise.com", "filelions.to", "filelions.site"],
-    "vidhide": ["callistanise.com", "vidhidepro.com", "vidhide.com", "pahe.win"],
-    "voe": ["garylargeavailable.com", lauradaydo.com", "crystaltreatmenteast.com"]
-  },
-  "priorities": [
-    "dood", "voe", "streamwish", "vidhide", "earnvids", "vimeos", "filelions", "filemoon", "byse"
+  "streams": [
+    {
+      "title": "Película 1",
+      "url": "https://servidor.com/stream1.m3u8",
+      "quality": "1080p",
+      "thumbnail": "https://servidor.com/thumb1.jpg",
+      "duration": "02:15:30"
+    },
+    {
+      "title": "Película 2",
+      "url": "https://servidor.com/stream2.m3u8",
+      "quality": "720p",
+      "thumbnail": "https://servidor.com/thumb2.jpg",
+      "duration": "01:45:20"
+    },
+    {
+      "title": "Serie - Capítulo 1",
+      "url": "https://servidor.com/serie1.m3u8",
+      "quality": "1080p",
+      "thumbnail": "https://servidor.com/serie1.jpg",
+      "duration": "00:45:10"
+    }
   ],
-  "magic_vars": {
-    "nuupload_default_magic": 798615,
-    "pelispedia_pow_difficulty_default": 3
-  }
+  "categories": [
+    "Acción",
+    "Comedia",
+    "Drama"
+  ],
+  "last_update": "2026-08-30"
 }
