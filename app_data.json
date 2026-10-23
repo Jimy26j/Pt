@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "id": 17,
+      "name": "SERVIDORES PRUEBA",
+      "color": "#00000000",
+      "status": "ACTIVE",
+      "order": 1
+    },
+    {
+      "id": 21,
+      "name": "SERVIDORES GRATIS 2026",
+      "color": "#00000000",
+      "status": "ACTIVE",
+      "order": 2
+    },
+    {
+      "id": 25,
+      "name": "SERVER TIGO",
+      "color": "#00000000",
+      "status": "ACTIVE",
+      "order": 3
+    }
+  ]
+}
